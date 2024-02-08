@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "brutalforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forcefpt.js",
+  "scripts": {
+    "test": "node ./build/forceftp.js 192.168.0.101 list.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  },
+  "devDependencies": {
+    "@types/ftp": "^0.3.36"
+  }
+}
