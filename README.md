@@ -11,7 +11,7 @@ Este é um script simples em Node.js que realiza uma tentativa de força bruta e
 
 ## Como Usar
 
-1. Clone o repositório ou baixe o arquivo `forceftp.js`.
+1. Clone o repositório.
 2. Instale as dependências necessárias usando npm:
 
     ```
