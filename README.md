@@ -15,7 +15,7 @@ Este é um script simples em Node.js que realiza uma tentativa de força bruta e
 2. Instale as dependências necessárias usando npm:
 
     ```
-    npm install ftp
+    npm install
     ```
 
 3. Execute o script passando como argumentos o endereço do host FTP e o caminho para o arquivo contendo as credenciais:
